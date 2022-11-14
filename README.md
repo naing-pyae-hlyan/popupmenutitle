@@ -15,4 +15,4 @@ and the Flutter guide for
 A Flutter package to provide a popup menu title with custom widget.
 
 ## Usage
-![alt text](https://github.com/naing-pyae-hlyan/popupmenutitle/screenshot/main.dart.png)
+![alt text](/screenshot/main.dart.png)
