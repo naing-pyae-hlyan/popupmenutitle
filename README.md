@@ -16,3 +16,6 @@ A Flutter package to provide a popup menu title with custom widget.
 
 ## Usage
 ![alt text](/screenshot/main.dart.png)
+
+### Preview
+![alt text](/screenshot/preview.png)
